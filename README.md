@@ -20,10 +20,10 @@
 - 1.1.1 Java基础环境搭建之Ubuntu（https://t.zsxq.com/04jeyrvBy）
 - 1.1.2 Java基础环境搭建之Windows（https://t.zsxq.com/04jeyrvBy）
 - 1.2 JavaWeb基础
-- 1.2.1 Servlet以及过滤器、监听器和拦截器（https://t.zsxq.com/04FmyVvjy）
-- 1.2.2 JSP基础（https://t.zsxq.com/04aImqbiQ）
-- 1.2.3 Spring和SpringMVC
-- 1.2.4 SpringBoot，SpringCloud
+  - 1.2.1 Servlet以及过滤器、监听器和拦截器（https://t.zsxq.com/04FmyVvjy）
+  - 1.2.2 JSP基础（https://t.zsxq.com/04aImqbiQ）
+  - 1.2.3 Spring和SpringMVC（https://t.zsxq.com/04nA6YJ6Y）
+  - 1.2.4 SpringBoot，SpringCloud
 - Java文件操作之文件上传
 - Java文件操作之文件下载
 - Java命令执行
@@ -46,6 +46,7 @@
 - SQL注入（https://t.zsxq.com/04MjEiUVV）
 - 任意文件上传（https://t.zsxq.com/04mYFQ7EE）
 - 命令执行（https://t.zsxq.com/04nyfAy7Q）
+- 代码执行（https://t.zsxq.com/04bmaEYzR）
 - 任意文件下载
 - RCE
 - SSRF
