@@ -140,7 +140,8 @@ APP，微信小程序，钉钉小程序，客户端(C/S架构)，接口测试等
 
 此部分通过本地手动搭建各种开源JAVA/PHP系统，进行实战化渗透测试练习，并且会从代码审计角度进行讲解。不仅在搭建的过程更熟悉现在主流的WEB架构，还能无所顾忌的深入练习。既能提升渗透测试能力，有能提升代码审计能力。一共分享十二套系统。每套系统对应的教程都会是实打实的干货。
 
-- 某基于SpringBoot开发的RBAC管理系统（https://t.zsxq.com/04iuJYnAq）
+- 某基于SpringBoot开发的RBAC管理系统(https://t.zsxq.com/04iuJYnAq)
+- 办公OA管理系统(https://t.zsxq.com/04iiI23fe)
 - 某基于SpringBoot开发的仿天猫商城系统
 - 若依管理系统
 - OFCMS
