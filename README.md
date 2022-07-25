@@ -108,13 +108,16 @@
 
 讲授Python语言，先从基础语法开始学起。再到POC的编写。最后到各种Python工具的熟练使用。
 
-- Python简介和环境搭建
-- 数值类型
+- 5.1 Python基础篇之Python介绍与安装(https://t.zsxq.com/04ea6Uja6)
+- 5.2 Python基础篇之Python的第一个程序(https://t.zsxq.com/04NVRzJUR)
+- 5.3 Python基础篇之数据类型与变量
 - 字符串、列表、元组、字典和集合
 - 流程控制
 - 函数
 - Python第三方库学习
 - Python之PoC编写
+
+
 
 
 
