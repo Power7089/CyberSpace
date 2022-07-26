@@ -110,7 +110,7 @@
 
 - 5.1 Python基础篇之Python介绍与安装(https://t.zsxq.com/04ea6Uja6)
 - 5.2 Python基础篇之Python的第一个程序(https://t.zsxq.com/04NVRzJUR)
-- 5.3 Python基础篇之数据类型与变量
+- 5.3 Python基础篇之数据类型与变量(https://t.zsxq.com/04m6EAAiU)
 - 字符串、列表、元组、字典和集合
 - 流程控制
 - 函数
@@ -163,6 +163,7 @@ APP，微信小程序，钉钉小程序，客户端(C/S架构)，接口测试等
 
 并配套线上靶场。
 
+- 通达OA v11.7 auth_mobi.php 在线用户登录漏洞(https://t.zsxq.com/04NjuZv7Q)
 - xstream 反序列化（CVE-2021-39144）
 - O2OA远程代码执行 (RCE) 漏洞
 - Django SQL注入 (CVE-2021-35042) 
