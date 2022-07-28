@@ -43,10 +43,11 @@
 
 比如：
 
-- SQL注入(https://t.zsxq.com/04MjEiUVV)
-- 任意文件上传(https://t.zsxq.com/04mYFQ7EE)
-- 命令执行(https://t.zsxq.com/04nyfAy7Q)
-- 代码执行(https://t.zsxq.com/04bmaEYzR)
+- 2.1 PHP代码审计基础之SQL注入篇(https://t.zsxq.com/04MjEiUVV)
+- 2.2 PHP代码审计基础之任意文件上传篇(https://t.zsxq.com/04mYFQ7EE)
+- 2.3 PHP代码审计基础之命令执行篇(https://t.zsxq.com/04nyfAy7Q)
+- 2.4 PHP代码审计基础之代码执行篇(https://t.zsxq.com/04bmaEYzR)
+- 2.5 PHP代码审计基础之文件包含篇(https://t.zsxq.com/04QFie2FA)
 - 任意文件下载
 - RCE
 - SSRF
@@ -111,6 +112,7 @@
 - 5.1 Python基础篇之Python介绍与安装(https://t.zsxq.com/04ea6Uja6)
 - 5.2 Python基础篇之Python的第一个程序(https://t.zsxq.com/04NVRzJUR)
 - 5.3 Python基础篇之数据类型与变量(https://t.zsxq.com/04m6EAAiU)
+- 5.4 Python基础篇之流程控制(https://t.zsxq.com/04V7IqbYv)
 - 字符串、列表、元组、字典和集合
 - 流程控制
 - 函数
