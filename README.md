@@ -48,6 +48,7 @@
 - 2.3 PHP代码审计基础之命令执行篇(https://t.zsxq.com/04nyfAy7Q)
 - 2.4 PHP代码审计基础之代码执行篇(https://t.zsxq.com/04bmaEYzR)
 - 2.5 PHP代码审计基础之文件包含篇(https://t.zsxq.com/04QFie2FA)
+- 2.6 PHP代码审计基础之SSRF篇(https://t.zsxq.com/04AemYFy3)
 - 任意文件下载
 - RCE
 - SSRF
@@ -147,7 +148,7 @@ APP，微信小程序，钉钉小程序，客户端(C/S架构)，接口测试等
 
 - 某基于SpringBoot开发的RBAC管理系统(https://t.zsxq.com/04iuJYnAq)
 - 办公OA管理系统(https://t.zsxq.com/04iiI23fe)
-- 某基于SpringBoot开发的仿天猫商城系统
+- 某基于SpringBoot开发的仿天猫商城系统(https://t.zsxq.com/042FQBuJa)
 - 若依管理系统
 - OFCMS
 - Jpress
