@@ -43,6 +43,7 @@
 
 比如：
 
+- 2.0 PHP代码审计之PHP语言基础(https://t.zsxq.com/04VRvRnuz)
 - 2.1 PHP代码审计基础之SQL注入篇(https://t.zsxq.com/04MjEiUVV)
 - 2.2 PHP代码审计基础之任意文件上传篇(https://t.zsxq.com/04mYFQ7EE)
 - 2.3 PHP代码审计基础之命令执行篇(https://t.zsxq.com/04nyfAy7Q)
