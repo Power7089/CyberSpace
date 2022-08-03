@@ -51,6 +51,7 @@
 - 2.5 PHP代码审计基础之文件包含篇(https://t.zsxq.com/04QFie2FA)
 - 2.6 PHP代码审计基础之SSRF篇(https://t.zsxq.com/04AemYFy3)
 - 2.7 PHP代码审计基础之XSS篇(https://t.zsxq.com/04VRvRnuz)
+- 2.8 PHP代码审计基础之CSRF篇(https://t.zsxq.com/04mmyjeu3)
 - 任意文件下载
 - RCE
 - SSRF
