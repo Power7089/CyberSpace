@@ -42,7 +42,6 @@
 该部分从PHP方向讲解常见的WEB安全漏洞，并给出示例。这个部分的学习，让大家从PHP代码层面深入理解常见的WEB安全漏洞。
 
 比如：
-
 - 2.0 PHP代码审计之PHP语言基础(https://t.zsxq.com/04VRvRnuz)
 - 2.1 PHP代码审计基础之SQL注入篇(https://t.zsxq.com/04MjEiUVV)
 - 2.2 PHP代码审计基础之任意文件上传篇(https://t.zsxq.com/04mYFQ7EE)
@@ -52,16 +51,12 @@
 - 2.6 PHP代码审计基础之SSRF篇(https://t.zsxq.com/04AemYFy3)
 - 2.7 PHP代码审计基础之XSS篇(https://t.zsxq.com/04VRvRnuz)
 - 2.8 PHP代码审计基础之CSRF篇(https://t.zsxq.com/04mmyjeu3)
-- 任意文件下载
+- 2.9 PHP代码审计基础之任意文件读取篇(https://t.zsxq.com/04FQZBu76)
 - RCE
-- SSRF
 - 反序列化
-- CSRF
-- XSS
 - 变量覆盖
-- 文件包含
 - XXE
-
+- ......
 
 
 ## **三、Java之WEB安全基础篇**
