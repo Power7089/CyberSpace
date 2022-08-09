@@ -24,8 +24,8 @@
   - 1.2.2 JSP基础(https://t.zsxq.com/04aImqbiQ)
   - 1.2.3 Spring和SpringMVC(https://t.zsxq.com/04nA6YJ6Y)
   - 1.2.4 SpringBoot，SpringCloud(https://t.zsxq.com/043faeQ3V)
-- Java文件操作之文件上传
-- Java文件操作之文件下载
+- Java文件操作之文件上传(https://t.zsxq.com/04QZRVVFi)
+- Java文件操作之文件下载(https://t.zsxq.com/04NrBuFAA)
 - Java命令执行
 - Java数据库操作
 - Java反射
@@ -112,6 +112,8 @@
 - 5.2 Python基础篇之Python的第一个程序(https://t.zsxq.com/04NVRzJUR)
 - 5.3 Python基础篇之数据类型与变量(https://t.zsxq.com/04m6EAAiU)
 - 5.4 Python基础篇之流程控制(https://t.zsxq.com/04V7IqbYv)
+- 5.5 Python基础篇之循环(https://t.zsxq.com/04EURbeem)
+- 5.6 Python基础篇之函数(https://t.zsxq.com/04a66AEUJ)
 - 字符串、列表、元组、字典和集合
 - 流程控制
 - 函数
