@@ -103,8 +103,7 @@
 - 结尾篇，回顾及未来学习路线规划
 
 
-
-## **五、Python基础篇**
+## **五、Python黑客篇**
 
 讲授Python语言，先从基础语法开始学起。再到POC的编写。最后到各种Python工具的熟练使用。
 
@@ -114,11 +113,8 @@
 - 5.4 Python基础篇之流程控制(https://t.zsxq.com/04V7IqbYv)
 - 5.5 Python基础篇之循环(https://t.zsxq.com/04EURbeem)
 - 5.6 Python基础篇之函数(https://t.zsxq.com/04a66AEUJ)
-- 字符串、列表、元组、字典和集合
-- 流程控制
-- 函数
-- Python第三方库学习
-- Python之PoC编写
+- 5.7 Python基础篇之模块(https://t.zsxq.com/056yBmeEY)
+- 更新ing......
 
 
 
@@ -166,7 +162,8 @@ APP，微信小程序，钉钉小程序，客户端(C/S架构)，接口测试等
 
 并配套线上靶场。
 
-- 通达OA v11.7 auth_mobi.php 在线用户登录漏洞(https://t.zsxq.com/04NjuZv7Q)
+- 1、通达OA v11.7 auth_mobi.php 在线用户登录漏洞(https://t.zsxq.com/04NjuZv7Q)
+- 2、lanproxy文件读取漏洞(https://t.zsxq.com/05imm6meY)
 - xstream 反序列化（CVE-2021-39144）
 - O2OA远程代码执行 (RCE) 漏洞
 - Django SQL注入 (CVE-2021-35042) 
