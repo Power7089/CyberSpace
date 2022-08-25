@@ -114,6 +114,7 @@
 - 5.5 Python基础篇之循环(https://t.zsxq.com/04EURbeem)
 - 5.6 Python基础篇之函数(https://t.zsxq.com/04a66AEUJ)
 - 5.7 Python基础篇之模块(https://t.zsxq.com/056yBmeEY)
+- 5.8 Python基础篇之面向对象(https://t.zsxq.com/05bEEQjUz)
 - 更新ing......
 
 
